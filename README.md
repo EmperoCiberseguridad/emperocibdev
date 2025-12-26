@@ -24,7 +24,7 @@ El objetivo es documentar y demostrar prácticas reales de seguridad informátic
 ## Repositorios técnicos
 
 - linux-hardening  
-  https://github.com/emperocibdev/linux-hardening  
+  [https://github.com/EmperoCiberseguridad/linux-hardening](https://github.com/EmperoCiberseguridad/linux-hardening)  
   Documentación de prácticas de hardening en sistemas Linux, enfocada en configuraciones seguras, reducción de superficie de ataque y controles auditables.
 
 ## Metodología de trabajo
@@ -49,4 +49,4 @@ MIT License
 ## Contacto
 
 Sitio: https://emperosec.dev  
-GitHub: https://github.com/emperocibdev
+GitHub: https://github.com/EmperoCiberseguridad
