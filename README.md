@@ -21,16 +21,11 @@ El objetivo es documentar y demostrar prácticas reales de seguridad informátic
 - No es una colección de exploits
 - No promueve actividades ilegales
 
-## Estructura del repositorio
+## Repositorios técnicos
 
-- `linux-hardening/`  
-  Prácticas, checklist y scripts relacionados con hardening en Linux.
-
-- `access-control/`  
-  Modelos y ejemplos de control de accesos y validación.
-
-- `security-notes/`  
-  Notas técnicas, metodologías y documentación de apoyo.
+- linux-hardening  
+  https://github.com/emperocibdev/linux-hardening  
+  Documentación de prácticas de hardening en sistemas Linux, enfocada en configuraciones seguras, reducción de superficie de ataque y controles auditables.
 
 ## Metodología de trabajo
 
@@ -54,4 +49,4 @@ MIT License
 ## Contacto
 
 Sitio: https://emperosec.dev  
-GitHub: https://github.com/emperosecdev
+GitHub: https://github.com/emperocibdev
